@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋, I'm Scott
+
+- 🔭 I’m currently a PhD student in Biostat @ Duke University
+- 🤔 My research interests include: missing data, variational inference, deep generative model
 
 <!--
 **scotsun/scotsun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
