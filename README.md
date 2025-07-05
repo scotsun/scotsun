@@ -1,7 +1,11 @@
 ### Hi there 👋, I'm Scott
 
 - 🔭 I’m currently a PhD student in Biostat @ Duke University
-- 🤔 My research interests include: missing data, variational inference, ML for Health & Text2SQL
+- 🤔 My research interests include:
+  - missing data
+  - variational representation learning
+  - EHR & ML for Health
+  - LLM-powered data analytics (such as Text2SQL, Text2Pandas)
 
 <!--
 **scotsun/scotsun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
